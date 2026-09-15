@@ -11,6 +11,12 @@ The system has two main modes:
 
 The distance is measured using the ultrasonic sensor's echo pulse. A hardware timer captures the rising and falling edges of the echo, and the pulse width is converted into distance in centimeters.
 
+## Project Setup
+
+Below is the hardware setup used for the project, including the STM32 board, ultrasonic sensor, servo motor, breadboard, and LED indicators.
+
+![STM32 Ultrasonic Scanner Setup](images/IMG_4055.jpg)
+
 ## Main features
 
 - Ultrasonic distance measurement using timer input capture

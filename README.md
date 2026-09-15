@@ -1,6 +1,6 @@
 # STM32 Ultrasonic Scanning System
 
-This was a microprocessor/embedded systems project I worked on using an STM32 microcontroller. The main goal was to build a distance scanning system that could measure objects with an ultrasonic sensor while moving a servo to different angles.
+This was a microprocessor/embedded systems group project I worked on using an STM32 microcontroller. The main goal was to build a distance scanning system that could measure objects with an ultrasonic sensor while moving a servo to different angles.
 
 ## What the project does
 
